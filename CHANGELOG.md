@@ -1,5 +1,12 @@
 # Release Notes
 
+## [8.4.2](https://github.com/streetsidesoftware/cspell-dicts/compare/cspell-dicts@8.4.1...cspell-dicts@8.4.2) (2023-01-15)
+
+
+### Continuous Integration
+
+* Workflow Bot -- Update ALL Dependencies (main) ([#1814](https://github.com/streetsidesoftware/cspell-dicts/issues/1814)) ([6bdac03](https://github.com/streetsidesoftware/cspell-dicts/commit/6bdac0398d0886b3c4d6e6717a484e1e939fb15f))
+
 ## [8.4.1](https://github.com/streetsidesoftware/cspell-dicts/compare/cspell-dicts@8.4.0...cspell-dicts@8.4.1) (2023-01-14)
 
 
